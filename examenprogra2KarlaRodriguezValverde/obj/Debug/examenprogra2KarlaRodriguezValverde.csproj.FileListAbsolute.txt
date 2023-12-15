@@ -1,0 +1,2 @@
+C:\Users\Lombard\source\repos\examenprogra2KarlaRodriguezValverde\examenprogra2KarlaRodriguezValverde\obj\Debug\examenprogra2KarlaRodriguezValverde.csproj.AssemblyReference.cache
+C:\Users\Lombard\source\repos\examenprogra2KarlaRodriguezValverde\examenprogra2KarlaRodriguezValverde\obj\Debug\examenprogra2KarlaRodriguezValverde.csproj.CoreCompileInputs.cache
